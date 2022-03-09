@@ -1,2 +1,2 @@
 # workshop-testing
-Workshop
+Workshop about testing
